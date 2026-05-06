@@ -1,4 +1,4 @@
- Banking System
+ ## Banking System
 
 A full-stack banking system built with Spring Boot, MySQL, and vanilla JavaScript.
 
